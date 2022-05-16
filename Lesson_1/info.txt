@@ -1,0 +1,37 @@
+// road map
+
+SEO (search engine optimization)
+
+front (client-side)
+    - HTML (*)
+    - CSS
+        - Bootstrap (*)
+        - SASS 1 / Less 1
+    - JavaScript
+        - jQuery
+        - Angular 1
+        - React 1
+        - Vue 1
+
+back-end (server-side)
+    PHP (*)
+        - wordpress (CMS)
+        - Laravel (Framework) (*)
+        - Symphony
+        - Yii
+        - ...
+    asp
+    nodejs
+        - express
+    python
+        - flask
+        - django
+    golang
+        - gin
+
+    DBMS
+        - MySQL
+        - Postgre
+        - SQLServer
+        - noSQL
+            - Mongodb
