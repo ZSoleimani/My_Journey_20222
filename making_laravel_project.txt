@@ -1,4 +1,4 @@
 # making a Laravel project:
 
 	1. Open terminal -> cd ... where you want
-	2. composer create-project laravel/laravel laravel-blog --prefer-dist
+	2. composer create-project laravel/laravel laravel-project_name --prefer-dist
