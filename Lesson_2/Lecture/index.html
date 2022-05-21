@@ -46,6 +46,39 @@
             </div>
           </div>
 
+          <div class="row mt-2">
+            <div class="col-2">
+              <label for="gender">Gender:</label>
+            </div>
+            <div class="col-10">
+              <select name="gender" id="gender" class="form-control">
+                <option value="">Select one gender</option>
+                <option value="0">Male</option>
+                <option selected value="1">Female</option>
+                <option value="2">Unknown</option>
+              </select>
+            </div>
+          </div>
+
+
+          <div class="row mt-2">
+            <div class="col-2">
+              <label for="city">City:</label>
+            </div>
+            <div class="col-10">
+              <select name="city" id="city" class="form-control">
+                <optgroup label="Iran">
+                  <option value="1">Tehran</option>
+                  <option value="2">Zanjan</option>
+                </optgroup>
+                <optgroup label="Denmark">
+                  <option value="1">Copenhagen</option>
+                  <option value="2">Stenløse</option>
+                </optgroup>
+              </select>
+            </div>
+          </div>
+
           <input type="submit" class="btn btn-success" />
         </form>
 
