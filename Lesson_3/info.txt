@@ -1,3 +1,6 @@
+what I learned today:
+  - if 
+  
 how to see the result on browser?
 
 cd nolder_name

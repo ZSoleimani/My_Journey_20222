@@ -1,0 +1,4 @@
+what I learned today:
+  - switch 
+  - while
+  - for
