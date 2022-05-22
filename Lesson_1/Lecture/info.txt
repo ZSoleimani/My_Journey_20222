@@ -35,3 +35,20 @@ back-end (server-side)
         - SQLServer
         - noSQL
             - Mongodb
+
+
+what I learned today:
+    - html normal style:
+        <html>
+            <head>
+                <title></title>
+                <link rel="stylesheet" href="">
+            </head>
+            <body>
+                <h1></h1>
+                <p></p>
+            </body>
+        </html>
+
+    - linking Bootstrap to html: <link rel="stylesheet" href="css/bootstrap.min.css">
+    - linking pagaes together: <a class="btn btn-success" href="index.html">Go back</a>

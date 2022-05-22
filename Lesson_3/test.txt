@@ -1,1 +1,4 @@
-lorem 
+how to see the result on browser?
+
+cd nolder_name
+php -s localhost:8000
