@@ -1,0 +1,26 @@
+what I learned today:
+  - Dividing a page to 12 containers in each row, remember div container contains row, row contains col- classes
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-6">
+            <p></p>
+          </div>
+          <div class="col-6">
+            <p></p>
+          </div>
+        </div>
+      </div>
+
+  - adding image
+    <img src="...png" class="img-fluid img-thumbnail" alt="...">
+
+  - form uses for collecting user input, which usually sends a server
+    some examples of input type:
+      <input type="text">	
+      <input type="radio"> 
+      <input type="checkbox">
+      <input type="submit">	
+      <input type="button">	
+  
+  - option group
+
