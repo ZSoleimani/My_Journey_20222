@@ -52,3 +52,18 @@ what I learned today:
 
     - linking Bootstrap to html: <link rel="stylesheet" href="css/bootstrap.min.css">
     - linking pagaes together: <a class="btn btn-success" href="index.html">Go back</a>
+    - html tables
+        <table class="table table-hover table-striped"></table>>
+            <thead>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
